@@ -1,0 +1,1 @@
+# SplitCommenter.nvim
